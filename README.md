@@ -11,6 +11,7 @@ demo_without_visible.py
 
 demo_with_visible.py will save subgraph structure as png
 demo_with_visible.py 会将子图结构保存成图片
+![avatar](./png/1.png)![avatar](./png/2.png)
 demo_without_visible.py will not save subgraph structure as png
 demo_without_visible.py 不会将子图结构保存成图片
 
